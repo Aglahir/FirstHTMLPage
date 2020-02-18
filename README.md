@@ -18,4 +18,7 @@
     <li>
         git push -u origin master
     </li>
+    <li>
+        git branch design-features
+    </li>
 </ol>
